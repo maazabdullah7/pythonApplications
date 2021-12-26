@@ -3,9 +3,12 @@ import json
 
 lst = list()
 
+# Alternatively, we can use Google Place API instead of service url.
 api_key = 42
 serviceurl = 'http://py4e-data.dr-chuck.net/json'
 fh = open("address.txt")
+
+# 'c' is used as to keep a count of progress, as it was quite long.
 c = 0
 for line in fh:
     c += 1
