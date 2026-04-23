@@ -1,4 +1,4 @@
 Python is a beautiful language with a lot of productivity with minimum output.
 The following projects are provided in this repository:
 1. Xpressathon: The code was written originally for a Xpress Bees hackathon and can be altered to write the suitable output to a json file.
-2. Saudi Evapotranspiration Modelling: The code can be used with provided dataset on Zenodo for validating the model and regenerating the results.
+2. saudi_evapotranspiration: The code can be used with provided dataset on Zenodo for validating the model and regenerating the results.
